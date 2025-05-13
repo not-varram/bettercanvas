@@ -17,11 +17,13 @@
   "license": "ISC",
   "devDependencies": {
     "@types/chrome": "^0.0.322",
+    "@types/node": "^22.15.17",
     "copy-webpack-plugin": "^13.0.0",
     "ts-loader": "^9.5.2",
     "tslib": "^2.8.1",
     "typescript": "^5.8.3",
     "webpack": "^5.99.8",
     "webpack-cli": "^6.0.1"
-  }
+  },
+  "packageManager": "pnpm@9.0.1+sha512.f904b133d699415b0d997ee3f05a269affbdb02cf6b227fa03d85483a8f3dfced0b9160a7d477dc051ab67af8be44705b9fdf15f2ae33bc83b76886529fb4b1d"
 }
