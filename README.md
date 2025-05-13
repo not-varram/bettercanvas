@@ -111,6 +111,21 @@ To use Better Canvas, select your browser below to install the extension.
 
 ## Contributing
 
+### How to Build
+
+Prerequisites: you will need to download `Node.js` and if you dont have pnpm download it by running `npm i -g pnpm`
+
+To build this runn the follow commands
+
+```sh
+# Download necessaary packages
+pnpm i
+
+# build the extenstion
+pnpm build
+```
+
+
 ### Add a new feature
 
 To add a new feature, please follow these guidelines.
